@@ -227,6 +227,11 @@ main#wp--skip-link--target{
 	width: 100%;
 }
 
+
+title-homepage{
+	width: 690px;
+}
+
 @media screen and (max-width: 600px) {
 	body header .is-layout-constrained > .alignwide .alignwide {
 		padding: 0 !important;
