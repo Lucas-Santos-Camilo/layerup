@@ -1,4 +1,3 @@
-<!-- teste -->
 <div id="categories">
     <h2>Categorias</h2>
     <ul>
@@ -33,4 +32,3 @@
         ?>
     </ul>
 </div>
-<!-- /fim teste-->
