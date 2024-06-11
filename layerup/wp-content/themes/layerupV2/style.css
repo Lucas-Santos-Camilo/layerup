@@ -170,9 +170,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	font-family: "Roboto", sans-serif !important;
 }
 
-body.home header .is-layout-constrained > .alignwide{
-	background-color: #2C3159;
-}
+
 body header .is-layout-constrained > .alignwide{
     display: flex;
     justify-content: flex-start;
