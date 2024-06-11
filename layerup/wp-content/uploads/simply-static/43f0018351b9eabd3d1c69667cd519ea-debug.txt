@@ -1,0 +1,4 @@
+[2024-06-11 18:58:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/layerup
+[2024-06-11 18:58:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/layerup
+[2024-06-11 18:58:22] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/layerup
+[2024-06-11 18:58:22] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/layerup
